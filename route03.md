@@ -5,6 +5,6 @@
 ```graphviz
 digraph {
     edge [dir=both]
-    
+    八王子国際キャンパス -> カレッジハウス扶桑 [label=歩き]
 }
 ```
